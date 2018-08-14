@@ -1,0 +1,20 @@
+start mysql console
+C:\Program Files\MySQL\MySQL Server 5.7\bin\
+mysql -u root -p
+password 1234
+
+mongodb
+"C:\Program Files\MongoDB\Server\3.4\bin\mongod" --rest par" conseguir ver infor adminin pelo browser
+http://localhost:28017/
+mongod.exe
+show dbs;
+use curso_mongodb
+
+mongodb client gui
+C:\Program Files\Robo 3T 1.1.1
+
+start node server daemon
+nodemon app.js
+
+
+http://localhost:3000/
