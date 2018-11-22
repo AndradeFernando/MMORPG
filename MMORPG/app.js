@@ -1,4 +1,4 @@
-/* importar as configurações do servidor */
+/* importar as configurações do servidor node */
 var app = require('./config/server');
 
 /* parametrizar a porta de escuta */
